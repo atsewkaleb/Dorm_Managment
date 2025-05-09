@@ -1,7 +1,7 @@
 User Interface Flow Diagram
 
 1. First the proctor must authenticate (login in to the system)
-![login](https://github.com/user-attachments/assets/c98cbb45-6ee9-4e5c-976a-82df7502cb20)
+              ![login](https://github.com/user-attachments/assets/c98cbb45-6ee9-4e5c-976a-82df7502cb20)                        
 Fig 1. Login form for the proctor to log in
 
 2. If the proctor wants to register new student then he must first check if the student is assigned in the block and dorm of the building.
