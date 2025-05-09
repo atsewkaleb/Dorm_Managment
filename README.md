@@ -5,7 +5,7 @@
 Fig 1. Login form for the proctor to log in
 
 2. If the proctor wants to register new student then he must first check if the student is assigned in the block and dorm of the building.
-    ![register](https://github.com/user-attachments/assets/72e0c7ca-4234-40e5-affb-da416a430d47)
+![register form](https://github.com/user-attachments/assets/7cb5e0f9-ec47-46fa-857b-86cdd9acd67f)
 Fig 2. Check student before registration and then register
 
 3. He has to fill the student information provided from the student and register student.
