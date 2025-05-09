@@ -1,0 +1,1 @@
+The purpose of the Dorm Management system is to digitalize the manual system of dorm registration and taking record of student information. and the intended user is the proctor. And the proctor uses the system to add, delete and update student information.  
